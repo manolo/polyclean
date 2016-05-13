@@ -15,7 +15,7 @@ var dom5 = require('dom5');
 var escodegen = require('escodegen');
 var espree = require('espree');
 var through2 = require('through2');
-var uglify = require('uglify-js');
+var uglify = require('uglify-js2');
 var PluginError = require('plugin-error');
 
 /**
